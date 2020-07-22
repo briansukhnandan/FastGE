@@ -22,3 +22,5 @@ You should be good to go at this point if your DB is being populated with values
 - React JS
 - Google Firebase
 - Shell
+
+<img src="showcase1.gif" alt="Loading" width="400" height="390">
