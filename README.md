@@ -17,3 +17,8 @@ where YOUR_DB_URL is the URL obtained from your Firebase console.
 You can then run the script `refresh_ge_entry.sh` located in `src/db_local/rs_api/` to populate your Firebase DB with current OSRS Grand Exchange values.
 
 You should be good to go at this point if your DB is being populated with values. Finally, run the app with `npm start`.
+
+## Technologies Used
+- React JS
+- Google Firebase
+- Shell
