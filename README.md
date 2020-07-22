@@ -1,5 +1,5 @@
 # FastGE
-A dynamically sized table created in ReactJS which can perform a fast query on OSRS Grand Exchange items, which are stored in a Firebase instance. 
+An application that features a dynamically sized table created in ReactJS which can perform a fast query on OSRS Grand Exchange items, which are stored in a Firebase instance. 
 
 ## How can I use it?
 First, execute an `npm install` in the project root directory to install all dependencies. 
