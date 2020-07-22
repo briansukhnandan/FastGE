@@ -23,7 +23,7 @@ You should be good to go at this point if your DB is being populated with values
 - Google Firebase
 - Shell
 
-## Screenshots
+## Demo
 
 <img src="showcase1.gif" alt="Loading" width="500" height="488">
 
